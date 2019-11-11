@@ -1,0 +1,5 @@
+123,51
+anna,50
+anna,48
+bob,45
+& "C:/Program Files (x86)/Python37-32/python.exe" c:/Users/anna88864/Desktop/python/leaderboard.py,40
